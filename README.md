@@ -4,7 +4,7 @@ I'm an Engineer specialized in **Data Analysis** and **Data Science**.
 
 Over the years, I have conducted laboratory and technical-economic data analysis to create valuable insights and management reports that have helped drive operational efficiency and optimize processes. My passion for exploring and extracting information from data has led me to pursue knowledge in Data Science.
 
-In the past year and a half, I have dedicated myself to studying Data Science, focusing on areas such as **#Python**, **#R**, **#MachineLearning**, **#Spark**, **#BusinessAnalytics**, **#BusinessIntelligence**, and **#NeuralNetworks**. This learning journey has allowed me to expand my analytical skills and delve deeper into the understanding of advanced data analysis algorithms and techniques.
+In the past 2 years, I have dedicated myself to studying Data Science, focusing on areas such as **#Python**, **#R**, **#MachineLearning**, **#Spark**, **#BusinessAnalytics**, **#BusinessIntelligence**, and **#NeuralNetworks**. This learning journey has allowed me to expand my analytical skills and delve deeper into the understanding of advanced data analysis algorithms and techniques.
 
 You can find me on:
 
